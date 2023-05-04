@@ -1,2 +1,2 @@
-# Neural-Network
-Predicting Chances of Admission at UCLA
+The current admission dataset was created for the prediction of admissions into the University of California, Los Angeles (UCLA). It was built to help students in shortlisting universities based on their profiles. The predicted output gives them a fair idea about their chances of getting accepted.
+My goal is to build a classification model using Neural Networks to predict a student's chance of admission into UCLA.
